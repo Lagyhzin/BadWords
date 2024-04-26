@@ -1,0 +1,9 @@
+name: lBadWords
+version: 1.0
+main: dev.lagyh.badwords.Main
+description: A minecraft plugin that replaces swear words or whatever you want with "****"
+author: Lagyhzin
+commands:
+  addword:
+    description: Command to ban a word
+    usage: /addword [word]
