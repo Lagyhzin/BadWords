@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Lagyh and this is my minecraft plugin, I hope y'all like it!
+# BadWords
 
 
 ####
