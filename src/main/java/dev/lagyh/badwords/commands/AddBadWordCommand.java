@@ -1,4 +1,3 @@
-/* Decompiler 16ms, total 182ms, lines 36 */
 package dev.lagyh.badwords.commands;
 
 import dev.lagyh.badwords.manager.BadWordsManager;
